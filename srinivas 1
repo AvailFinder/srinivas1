@@ -1,0 +1,29 @@
+<!DTCTYPE html<
+<html<
+<html<
+  <meta name="viewport" conten="width=device-width,inital-scale= 1 . 0">
+  <title>Availfinder</title>
+ </head>
+
+ <body>
+
+  <h1>Availfinder</h1>
+
+  <h2>find where anything is avilfinder.<h2>
+
+  <p>search for apps, games, moves, tv shows, music and spftware.</p>
+
+  <input type="text" placeholder="Search something...">
+
+  <h3>Explore</h3>
+
+  <button>apps</button>
+  <button>games</button>
+  <button>momes</button>
+  <button>tv shows</button>
+  <button>music</boutton>
+  <button>spftware</button>
+
+  </boby>
+  </html>
+ 
